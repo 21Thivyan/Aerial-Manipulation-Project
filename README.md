@@ -51,7 +51,6 @@ This repository contains all design files, code, documentation, and simulation m
 - Jerin
 
 **Supervisor**: Farrokh Janabi-Sharifi 
-Mechanical Engineering Capstone Project
 **University**: Toronto Metropolitan University (TMU)
 
 ---
