@@ -1,4 +1,4 @@
-# Aerial Manipulation Project 🚁🤖
+# Aerial Manipulation Capstone Project 🚁🤖
 
 This repository contains all design files, code, documentation, and simulation models for our Capstone Project: **Lightweight Robotic Arm Integrated with a Drone for Aerial Manipulation**.
 
@@ -51,7 +51,6 @@ This repository contains all design files, code, documentation, and simulation m
 - Jerin
 
 **Supervisor**: Farrokh Janabi-Sharifi 
-
 
 
 **University**: Toronto Metropolitan University (TMU)
