@@ -51,7 +51,7 @@ This repository contains all design files, code, documentation, and simulation m
 - Jerin
 
 **Supervisor**: Farrokh Janabi-Sharifi 
-**Course**: ELE700 / Capstone Design  
+**Course**: ELE709 / Capstone Design  
 **University**: Toronto Metropolitan University (TMU)
 
 ---
