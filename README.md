@@ -35,7 +35,7 @@ This repository contains all design files, code, documentation, and simulation m
 - MATLAB / Simulink (Control design & tuning)
 - Arduino IDE (Microcontroller programming)
 - Git & GitHub (Version control)
-- KiCad / Eagle (ECAD design)
+- KiCad (ECAD design)
 - Python + OpenCV (Camera processing)
 
 ---
